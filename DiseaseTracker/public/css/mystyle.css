@@ -1,0 +1,14 @@
+#navigation {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.popover{
+    padding-right: 2em;
+}
+
+#navHeader{
+    padding-left: 1em;
+} 
